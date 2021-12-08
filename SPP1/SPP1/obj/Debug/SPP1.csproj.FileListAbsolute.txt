@@ -1,0 +1,2 @@
+C:\Users\User\Desktop\Учёба 5 семестр\SPP1\SPP1\obj\Debug\SPP1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Учёба 5 семестр\SPP1\SPP1\obj\Debug\SPP1.csproj.CoreCompileInputs.cache
